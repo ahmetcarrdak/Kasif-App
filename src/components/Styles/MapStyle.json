@@ -1,0 +1,31 @@
+[
+    {
+      "featureType": "administrative.country",
+      "stylers": [
+        {
+          "color": "#ffeb3b"
+        },
+        {
+          "visibility": "on"
+        },
+        {
+          "weight": 3.5
+        }
+      ]
+    },
+    {
+      "featureType": "administrative.country",
+      "elementType": "labels.text",
+      "stylers": [
+        {
+          "color": "#ffeb3b"
+        },
+        {
+          "visibility": "on"
+        },
+        {
+          "weight": 3.5
+        }
+      ]
+    }
+  ]
